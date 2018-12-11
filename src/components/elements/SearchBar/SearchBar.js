@@ -13,6 +13,7 @@ class SearchBar extends Component {
         clearTimeout(this.timeout);
         
         // no idea what it is but  delays 500
+        //sets a timer which executes a function or specified piece of code once after the timer expires.
         this.timeout= setTimeout(()=>{
             this.props.callback(this.state.value);
         },500);
