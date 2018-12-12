@@ -1,12 +1,11 @@
-//repair search as per rating
+//repair search as per rating  
 //https://api.themoviedb.org/3/movie/popular?api_key=bff1ffec9598b7db7b55ebf2e74049e9&language=en-US&page=1
 
-*[x] Navbar
-*[x] HeroImage
-*[x] search
-*[x] individual movie component
-*[x] grid system
-*[x] 
+* [x] Navbar
+* [x] HeroImage
+* [x] search
+* [x] individual movie component
+* [x] grid system
 
 ### how to build this kind of application?
 test the api extensively first for all parameters then only start coding
@@ -21,3 +20,5 @@ props is used to send data from parent to child (parent send it as attribute, ch
 ### how to pass function with arugument?
 send the name of function using attribute from parent in child call it by giving arguments in this.props
 
+### getting path name in react?
+well that is tough
