@@ -1,8 +1,14 @@
+https://github.com/thisismrsanjay/react-movie/assets/37665041/9b967b94-72d4-4746-8e6e-963cef572221
+
+
 //repair search as per rating  
 //https://api.themoviedb.org/3/movie/popular?api_key=bff1ffec9598b7db7b55ebf2e74049e9&language=en-US&page=1
 
 * [x] Navbar
-* [x] HeroImage
+* [x] HeroI
+
+
+mage
 * [x] search
 * [x] individual movie component
 * [x] grid system
